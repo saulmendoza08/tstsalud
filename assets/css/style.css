@@ -1,1 +1,19 @@
-.
+*{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+}
+
+/*Header*/
+
+.nav__menu{
+    color: #9297C0 !important;
+}
+.nav__menu-registro{
+    color: #6E7DEC !important;
+    border: 1px solid;
+    border-radius: 50px;
+}
+
+/*Presentacion*/
+
