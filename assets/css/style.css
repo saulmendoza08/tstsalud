@@ -17,3 +17,9 @@
 
 /*Presentacion*/
 
+.principal__h2{
+    font-size: 48px;
+    line-height: 59px;
+    color: #7785ED;
+    font-weight: bold;
+}
