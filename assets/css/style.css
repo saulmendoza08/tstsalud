@@ -8,6 +8,7 @@
 
 .nav__menu{
     color: #9297C0 !important;
+    margin-bot: 100px;
 }
 .nav__menu-registro{
     color: #6E7DEC !important;
@@ -17,9 +18,18 @@
 
 /*Presentacion*/
 
-.principal__h2{
+.principal__h2-titulo{
     font-size: 48px;
     line-height: 59px;
     color: #7785ED;
     font-weight: bold;
+    padding-top: 50;
+}
+.principal__parrafo{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 30px;
+    color: #48508A;
 }
